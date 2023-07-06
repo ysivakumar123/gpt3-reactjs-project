@@ -1,5 +1,7 @@
 # Live link : https://gpt3-yara.netlify.app/
 
+![Screenshot 2023-07-06 184203](https://github.com/ysivakumar123/gpt3-reactjs-project/assets/118169801/83aa7e04-7615-4d69-9b59-ccee92068149)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
